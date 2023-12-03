@@ -1,7 +1,7 @@
 public class Studente {
-    public String nome;
-    public String cognome;
-    public int id;
+    private String nome;
+    private String cognome;
+    private int id;
 
     public Studente(String nome, String cognome, int id) {
         this.nome = nome;
